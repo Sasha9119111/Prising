@@ -1,1 +1,1 @@
-# Prising
+# Pricing
